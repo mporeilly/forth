@@ -1,0 +1,8 @@
+drop - pops the top off the stack
+dup - duplicates top of stack
+over - pulls value under top and duplicates it on top of the stack
+. - displays top of the stack and pops it off
+.s - prints the stack does not clear it
+
+Notes:
+it will over flow with numerical operations
